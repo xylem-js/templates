@@ -1,0 +1,19 @@
+{
+	"name": "~",
+	"type": "module",
+	"private": true,
+	"dependencies": {
+		"@xylem-js/jsx": "0.2.6",
+		"@xylem-js/xylem-js": "0.7.4"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-basic-ssl": "^2.1.0",
+		"typescript": "^5.9.2",
+		"vite": "^7.1.5"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	}
+}
