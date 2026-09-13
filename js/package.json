@@ -7,8 +7,8 @@
 		"@xylem-js/xylem-js": "0.7.4"
 	},
 	"devDependencies": {
-		"@vitejs/plugin-basic-ssl": "^2.1.0",
-		"vite": "^7.1.5"
+		"@vitejs/plugin-basic-ssl": "^2.3.0",
+		"vite": "^7.3.6"
 	},
 	"scripts": {
 		"dev": "vite",
