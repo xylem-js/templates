@@ -4,7 +4,7 @@
 	"private": true,
 	"dependencies": {
 		"@xylem-js/jsx": "0.2.6",
-		"@xylem-js/xylem-js": "0.7.4"
+		"@xylem-js/xylem-js": "0.7.5"
 	},
 	"devDependencies": {
 		"@vitejs/plugin-basic-ssl": "^2.3.0",
